@@ -6,11 +6,11 @@ factories
 SRP
 
 В процессе:
-Adapter
+
+OCP
 
 Осталось:
 
-OCP
 LSP
 ISP
 DIP
@@ -37,3 +37,4 @@ State
 Strategy
 Template Method
 Visitor
+Adapter
