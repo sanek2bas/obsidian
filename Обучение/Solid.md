@@ -4,16 +4,18 @@ state
 factories
 
 SRP
-
-В процессе:
-
 OCP
-
-Осталось:
-
 LSP
 ISP
 DIP
+
+В процессе:
+
+
+
+Осталось:
+
+краткий обзор принципов SOLID
 
 Prototype
 Singleton
