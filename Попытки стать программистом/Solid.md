@@ -11,7 +11,7 @@ DIP
 
 В процессе:
 
-
+Adapter
 
 Осталось:
 
@@ -39,4 +39,3 @@ State
 Strategy
 Template Method
 Visitor
-Adapter
