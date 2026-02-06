@@ -12,7 +12,7 @@
 
 
 ТЕКУЩАЯ ЗАДАЧА
-bug 987 - при переходе между чатами сбрасывается вызов в CallStateResolver в коллекцииending крутится этот бокс. 
+bug 987 - при переходе между чатами сбрасывается вызов в CallStateResolver в коллекции ending крутится этот бокс. 
 1) при переключении между чатами создавать новый бокс callbox
 2) сделать Sender для отправки Begin/End Transmit
 
@@ -23,12 +23,6 @@ InitTransmitInfoSender - попробовать написать + тесты
 Перенести таймер из CallStateResolver в InitTransmitInfoSender
 
 
-
--- убрать calling и сделать как в Enterprise
--- сделать синхронизхацию внутри CallStateResolver
--- добавить коллекция для PressedByMouse
--- добавить метод в синхронизатор из свойства IsSelected
--- endTransmit для бокса даже если он еще в ожидании
 
 
 
