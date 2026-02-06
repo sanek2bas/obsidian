@@ -20,7 +20,6 @@ bug 987 - при переходе между чатами сбрасываетс
 ЧТО ХОЧЕТСЯ СДЕЛАТЬ
 
 InitTransmitInfoSender - попробовать написать + тесты
-
 Перенести таймер из CallStateResolver в InitTransmitInfoSender
 
 
@@ -58,3 +57,16 @@ InitTransmitInfoSender - попробовать написать + тесты
 Сделать пример с кнопкой PTT которая будет блокироваться на некоторое время, в этом время будет прогресс бар
 
 Пример по IOC
+
+
+ерекинуть workflow в One
+начать рефакторинг CallBox
+
+
+
+-- IOС сравнить Microsoft.Extensions.DependencyInjection и Autofac
+	как добавить сущесвтующий объект в контейнер
+	зачем Services и builder
+	
+-- Сделать state machine в боксе 
+-- Добавить тестов на state machine 
