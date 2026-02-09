@@ -12,9 +12,9 @@
 
 
 ТЕКУЩАЯ ЗАДАЧА
-bug 987 - при переходе между чатами сбрасывается вызов в CallStateResolver в коллекции ending крутится этот бокс. 
-1) при переключении между чатами создавать новый бокс callbox
-2) сделать Sender для отправки Begin/End Transmit
+Отделение PhoneCallBox от CallBox
+найти места приема передачи голоса для Radio и для Phone
+ сделать Sender для отправки Begin/End Transmit
 
 
 ЧТО ХОЧЕТСЯ СДЕЛАТЬ
@@ -53,8 +53,6 @@ InitTransmitInfoSender - попробовать написать + тесты
 Пример по IOC
 
 
-ерекинуть workflow в One
-начать рефакторинг CallBox
 
 
 
