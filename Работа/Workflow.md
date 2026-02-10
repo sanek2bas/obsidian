@@ -1,12 +1,9 @@
 
 
 1)
--- Bug #987 Bug #18851. Text Chat. PTT. Из чата перестает отрабатывать кнопка PTT, если перейти на другой чат. (залил)
--- Bug #1055 Выделить из CallBox PhoneCallBox
-	в процессе, немного раскидал по файлам и папкам UI которые относятся к Phone это залил (NS.Enterprise.WidgetFactory\UI\Widgets\VoiceDispatch\CallBoxViews\). Сейчас выделяю все свойства и поля в отдельный класс PhoneCallBox 
+-- Bug #987 Bug #18851. Text Chat. PTT. Из чата перестает отрабатывать кнопка PTT, если перейти на другой чат.
 2)
 -- Issue #1052 Рефакторинг сущности CallBox
--- Bug #1055 Выделить из CallBox PatchCallBox
 -- Ioc/RX к 19 февраля
 -- унификация двух консолей в перспективе
 3)
@@ -14,9 +11,7 @@
 
 
 ТЕКУЩАЯ ЗАДАЧА
--Отделение PhoneCallBox от CallBox
--найти места приема передачи голоса для Radio и для Phone
--сделать Sender для отправки Begin/End Transmit
+Отделить Phone от CallBox
 
 
 ЧТО ХОЧЕТСЯ СДЕЛАТЬ
@@ -55,6 +50,8 @@ InitTransmitInfoSender - попробовать написать + тесты
 Пример по IOC
 
 
+ерекинуть workflow в One
+начать рефакторинг CallBox
 
 
 
