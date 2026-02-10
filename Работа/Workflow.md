@@ -13,7 +13,7 @@
 
 ТЕКУЩАЯ ЗАДАЧА
 Отделить Phone от CallBox
-
+вытащить custombutton из callbox в PhoneBox
 
 ЧТО ХОЧЕТСЯ СДЕЛАТЬ
 
