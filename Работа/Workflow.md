@@ -12,6 +12,7 @@
 
 ТЕКУЩАЯ ЗАДАЧА
 Отделить Phone от CallBox
+Сделать тесты для VoiceBoxSettings чтобы начать тесты для CallBox
 вытащить custombutton из callbox в PhoneBox
 
 ЧТО ХОЧЕТСЯ СДЕЛАТЬ
