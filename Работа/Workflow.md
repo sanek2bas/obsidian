@@ -12,7 +12,6 @@
 
 ТЕКУЩАЯ ЗАДАЧА
 Отделить Phone от CallBox
-Сделать тесты для VoiceBoxSettings чтобы начать тесты для CallBox
 вытащить custombutton из callbox в PhoneBox
 
 ЧТО ХОЧЕТСЯ СДЕЛАТЬ
@@ -28,3 +27,7 @@
 -- Сделать пример с кнопкой PTT которая будет блокироваться на некоторое время, в этом время будет прогресс бар
 -- Пример по IOC
 Microsoft.Extensions.DependencyInjection
+
+- `ollama run llama3` (хорош в логике)
+- `ollama run qwen2.5-coder` (специально обучен для кода, отличный выбор для доков)
+- `ollama run deepseek-coder-v2` (высокая производительность)
