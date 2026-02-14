@@ -13,6 +13,8 @@
 ТЕКУЩАЯ ЗАДАЧА
 Отделить Phone от CallBox
 вытащить custombutton из callbox в PhoneBox
+не нужно отвлекаться на vbsettings
+
 
 ЧТО ХОЧЕТСЯ СДЕЛАТЬ
 
