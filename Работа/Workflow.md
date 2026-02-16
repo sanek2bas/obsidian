@@ -12,6 +12,7 @@
 
 ТЕКУЩАЯ ЗАДАЧА
 Отделить Phone от CallBox
+Попробовать избавиться от DependecyProperties в CustomixableFunction
 вытащить custombutton из callbox в PhoneBox
 не нужно отвлекаться на vbsettings
 
