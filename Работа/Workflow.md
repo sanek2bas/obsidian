@@ -1,8 +1,7 @@
 1)
 -- Task #1055 Выделить из CallBox PhoneCallBox
-Выдклен отдельный класс PhoneCallBox, который создается для SystemPhoneBox и SingleLinePhoneBox
-В классе от CallBox избавился от некоторых  dependecy properties, которые заменены на обычные свойства c OnPropertyChanged.
-Осталось перенести в класс PhoneCallBox часть свойств из CallBox и проверить как работает чат, потмоу что в чате используется и Radio и Phone. После этого перейду на ConsolePatchBox
+Рефакторинг CallBox в модуле Chat, это коснется модуля Notification, немного замялся на это этапе много изменений нужно в коде
+-- немного примеров с Rx
 2)
 -- Issue #1052 Рефакторинг сущности CallBox
 -- Issue #1055 Выделить из CallBox PatchCallBox
