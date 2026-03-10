@@ -1,7 +1,6 @@
 1)
 -- Task #1055 Выделить из CallBox PhoneCallBox
-	Добавил PhoneCallBox в использование Нотификаций + рефакторинг UI
-	Немного проверю работу и завтра отдам тестерам на проверку Чат и Нотфикации
+	
 2)
 -- Issue #1055 Выделить из CallBox PatchCallBox
 -- Перенести вcе Workflow в One из Enterprise (Заведу задачу)
