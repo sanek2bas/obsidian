@@ -13,9 +13,8 @@
 
 
 ТЕКУЩАЯ ЗАДАЧА
-Отделить Phone от CallBox
 вытащить custombutton из callbox в PhoneBox
-не нужно отвлекаться на vbsettings
+PttStateManager добавить Moq и тесты на краевые случаи
 
 
 ЧТО ХОЧЕТСЯ СДЕЛАТЬ
@@ -38,3 +37,4 @@ Microsoft.Extensions.DependencyInjection
 
 
 https://youtube.com/live/igYb8BwMTA4
+
