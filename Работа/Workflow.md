@@ -1,15 +1,14 @@
 1)
--- Task #1055 Выделить из CallBox PhoneCallBox
-	
+-- Task #1056 Выделить PatchCallBox из CallBox 
+	 Перенесана бОльшая часть свойств из CallBox в PatchCallBox + немного поправлен UI
 2)
--- Issue #1055 Выделить из CallBox PatchCallBox
--- Перенести вcе Workflow в One из Enterprise (Заведу задачу)
--- RX in One к 12 марта
+-- Bug # 19680 Voice Dispatch. Private Call box. При перехода на онлайн радио абонента PTT кнопка дизейблица на ~ 20 сек.
+-- Bug #19715 Voice Dispatch. Не работает SelectPTT для Private PTT Grid 
+-- Task #1056 Выделить PatchCallBox из CallBox 
+-- Перенести вcе Workflow в One из Enterprise (Заведу задачу) 
+-- RX in One 
 -- Добавить правила оформления UML диаграмм
--- унификация двух консолей в перспективе
 3)
-	По рефакторингу VD - осталось вычленить PatchBox и перенести Workflow в One
-	Далее старатьтся описывать поведение в Azure
 4)
 
 
