@@ -1,14 +1,14 @@
 1)
 -- Task #1056 Выделить PatchCallBox из CallBox 
-	 Перенесана бОльшая часть свойств из CallBox в PatchCallBox + немного поправлен UI
+-- Task #1081 Реализовать ActiveCallBox
+-- Task #1082 Добавить использование RadioCallBox в PttGridWidget
 2)
 -- Bug # 19680 Voice Dispatch. Private Call box. При перехода на онлайн радио абонента PTT кнопка дизейблица на ~ 20 сек.
 -- Bug #19715 Voice Dispatch. Не работает SelectPTT для Private PTT Grid 
--- Task #1056 Выделить PatchCallBox из CallBox 
--- Перенести вcе Workflow в One из Enterprise (Заведу задачу) 
 -- RX in One 
 -- Добавить правила оформления UML диаграмм
 3)
+-- Перенести вcе Workflow в One из Enterprise 
 4)
 
 
