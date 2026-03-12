@@ -1,7 +1,5 @@
 1)
--- Task #1056 Выделить PatchCallBox из CallBox 
--- Task #1081 Реализовать ActiveCallBox
--- Task #1082 Добавить использование RadioCallBox в PttGridWidget
+-- Issue #1052 Рефакторинг сущности CallBox 
 2)
 -- Bug # 19680 Voice Dispatch. Private Call box. При перехода на онлайн радио абонента PTT кнопка дизейблица на ~ 20 сек.
 -- Bug #19715 Voice Dispatch. Не работает SelectPTT для Private PTT Grid 
@@ -13,6 +11,7 @@
 
 
 ТЕКУЩАЯ ЗАДАЧА
+Сделать вместо IMultiCallBox => IRadioCallBox, IPhoneCallBox
 вытащить custombutton из callbox в PhoneBox
 PttStateManager добавить Moq и тесты на краевые случаи
 
