@@ -37,3 +37,5 @@ Microsoft.Extensions.DependencyInjection
 
 https://youtube.com/live/igYb8BwMTA4
 
+**Базовый набор для большинства .NET-разработчиков**: **xUnit** (или NUnit) + **Moq** + **Coverlet** + **Fluent Assertions**.
+
