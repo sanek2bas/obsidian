@@ -30,9 +30,7 @@ PttStateManager добавить Moq и тесты на краевые случ�
 -- Пример по IOC
 Microsoft.Extensions.DependencyInjection
 
-- `ollama run llama3` (хорош в логике)
-- `ollama run qwen2.5-coder` (специально обучен для кода, отличный выбор для доков)
-- `ollama run deepseek-coder-v2` (высокая производительность)
+
 
 
 https://youtube.com/live/igYb8BwMTA4
