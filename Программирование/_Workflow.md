@@ -2,4 +2,6 @@
 
 cсделать пример по concorency dictionary
 
+ИИ модель для игоря
+
 
