@@ -22,8 +22,8 @@
 
 
 ТЕКУЩАЯ ЗАДАЧА
-Сделать вместо IMultiCallBox => IRadioCallBox, IPhoneCallBox
-вытащить custombutton из callbox в PhoneBox
+SipLines.VoiceManagerSip.Sip_Invite(SipLines.FindContact(control.SelectedAbonent))
+cделать вызов через PhoneCallBox
 PttStateManager добавить Moq и тесты на краевые случаи
 
 
