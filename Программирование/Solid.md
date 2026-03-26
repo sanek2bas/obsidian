@@ -11,15 +11,12 @@ DIP
 
 В процессе:
 
+Singleton
 Adapter
 
 Осталось:
 
-краткий обзор принципов SOLID
-
 Prototype
-Singleton
-
 
 Bridge
 Composite
