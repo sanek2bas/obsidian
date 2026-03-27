@@ -1,4 +1,5 @@
 Пройдено:
+
 builder
 state
 factories
@@ -11,12 +12,8 @@ DIP
 
 Singleton
 
-В процессе:
-
-Adapter
-
 Осталось:
-
+Adapter
 Prototype
 
 Bridge
