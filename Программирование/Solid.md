@@ -9,9 +9,10 @@ LSP
 ISP
 DIP
 
+Singleton
+
 В процессе:
 
-Singleton
 Adapter
 
 Осталось:
