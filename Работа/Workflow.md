@@ -16,22 +16,4 @@
 
 
 
-ЧТО ХОЧЕТСЯ СДЕЛАТЬ
--- написать на технет по поводу видеокарты
--- PttStateManager добавить Moq и тесты на краевые случаи
--- SipLines - сделать синглетоном
--- InitTransmitInfoSender - попробовать написать+тесты
--- Перенести таймер из CallStateResolver в InitTransmitInfoSender
--- сделать binding to enum в PttButtonWidget (SelectPttButtonViewType)
--- Сделать state machine в боксе 
--- Добавить тестов на state machine 
-
-
-Пример по RX
--- Сделать пример с кнопкой PTT которая будет блокироваться на некоторое время, в этом время будет прогресс бар
--- Пример по IOC
-Microsoft.Extensions.DependencyInjection
-
-
-
 
