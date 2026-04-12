@@ -1,18 +1,15 @@
-Пройдено:
+~~builder~~
+~~state~~
+~~factories~~
 
-builder
-state
-factories
+~~SRP~~
+~~OCP~~
+~~LSP~~
+~~ISP~~
+~~DIP~~
 
-SRP
-OCP
-LSP
-ISP
-DIP
+~~Singleton~~
 
-Singleton
-
-Осталось:
 Adapter
 Prototype
 
