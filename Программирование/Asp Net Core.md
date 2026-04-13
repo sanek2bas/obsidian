@@ -21,3 +21,6 @@
 глава 34
 глава 35
 глава 36
+
+
+https://github.com/andrewlock/asp-dot-net-core-in-action-2e/tree/master/Chapter15/B_RecipeApplication_LocalDb/RecipeApplication
