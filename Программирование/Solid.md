@@ -1,6 +1,6 @@
-~~builder~~
-~~state~~
-~~factories~~
+~~Builder~~
+~~State~~
+~~Factories~~
 
 ~~SRP~~
 ~~OCP~~
@@ -11,6 +11,7 @@
 ~~Singleton~~
 
 Adapter
+
 Prototype
 
 Bridge
@@ -27,9 +28,6 @@ Mediator
 Memento
 Null Object
 Observer
-State
 Strategy
 Template Method
 Visitor
-
-https://github.com/Apress/design-patterns-in-.net/
