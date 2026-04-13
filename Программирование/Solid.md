@@ -31,3 +31,5 @@ State
 Strategy
 Template Method
 Visitor
+
+https://github.com/Apress/design-patterns-in-.net/
