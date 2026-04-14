@@ -9,8 +9,7 @@
 ~~DIP~~
 
 ~~Singleton~~
-
-Adapter
+~~Adapter~~
 
 Prototype
 
