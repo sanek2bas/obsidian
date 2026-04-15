@@ -1,26 +1,24 @@
-~~Builder~~
-~~State~~
-~~Factories~~
-
 ~~SRP~~
 ~~OCP~~
 ~~LSP~~
 ~~ISP~~
 ~~DIP~~
 
+~~Builder~~
+~~State~~
+~~Factories~~
 ~~Singleton~~
 ~~Adapter~~
 
 Prototype
 
+Command
 Bridge
 Composite
 Decorator
 Facade
 Flyweight
 Proxy
-
-Command
 Interpreter
 Iterator
 Mediator
