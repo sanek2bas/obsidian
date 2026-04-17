@@ -9,10 +9,11 @@
 ~~Factories~~
 ~~Singleton~~
 ~~Adapter~~
+~~Prototype~~
+~~Command~~
 
-Prototype
+Chains of responsibility
 
-Command
 Bridge
 Composite
 Decorator
