@@ -11,8 +11,7 @@
 ~~Adapter~~
 ~~Prototype~~
 ~~Command~~
-
-Chains of responsibility
+~~Chains of responsibility~~
 
 Bridge
 Composite
