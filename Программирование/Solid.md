@@ -13,17 +13,18 @@
 ~~Command~~
 ~~Chains of responsibility~~
 
+Null Object
+Flyweight
+
 Bridge
 Composite
 Decorator
 Facade
-Flyweight
 Proxy
 Interpreter
 Iterator
 Mediator
 Memento
-Null Object
 Observer
 Strategy
 Template Method
