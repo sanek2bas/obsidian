@@ -12,8 +12,8 @@
 ~~Prototype~~
 ~~Command~~
 ~~Chains of responsibility~~
+~~Null Object~~
 
-Null Object
 Flyweight
 
 Bridge
