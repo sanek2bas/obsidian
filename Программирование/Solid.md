@@ -13,21 +13,21 @@
 ~~Command~~
 ~~Chains of responsibility~~
 ~~Null Object~~
-
-Flyweight
+~~Flyweight~~
+~~Template Method~~
+~~Strategy~~
 
 Bridge
 Composite
 Decorator
 Facade
 Proxy
+
 Interpreter
 Iterator
 Mediator
 Memento
 Observer
-Strategy
-Template Method
 Visitor
 
 
