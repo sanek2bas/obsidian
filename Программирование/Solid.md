@@ -16,6 +16,7 @@
 ~~Flyweight~~
 ~~Template Method~~
 ~~Strategy~~
+~~Mediator~~
 
 Bridge
 Composite
@@ -25,10 +26,10 @@ Proxy
 
 Interpreter
 Iterator
-Mediator
 Memento
 Observer
 Visitor
+Memento
 
 
 https://github.com/Apress/design-patterns-in-.net/
