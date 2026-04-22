@@ -18,6 +18,9 @@
 ~~Strategy~~
 ~~Mediator~~
 ~~Memento~~
+~~Observer~~
+
+Visitor
 
 Bridge
 Composite
@@ -27,8 +30,7 @@ Proxy
 
 Interpreter
 Iterator
-Observer
-Visitor
+
 
 
 https://github.com/Apress/design-patterns-in-.net/
