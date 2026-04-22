@@ -19,17 +19,16 @@
 ~~Mediator~~
 ~~Memento~~
 ~~Observer~~
+~~Visitor~~
+~~Interpreter~~
+~~Iterator~~
 
-Visitor
 
 Bridge
 Composite
 Decorator
 Facade
 Proxy
-
-Interpreter
-Iterator
 
 
 
