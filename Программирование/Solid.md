@@ -22,9 +22,8 @@
 ~~Visitor~~
 ~~Interpreter~~
 ~~Iterator~~
+~~Bridge~~
 
-
-Bridge
 Composite
 Decorator
 Facade
