@@ -1,14 +1,13 @@
 1)
--- Bug #1165 (Redmine #20003) Notification. Full-duplex. При прожатии кнопки вызова на одной карточке, автоматически прожимаются кнопки вызова на остальных карточках
--- Bug #1171 (Redmine #20031) Notification. Full-duplex. Кнопка вызова на карточке missed call не меняет свой статус, если вызов совершается с контакт диалера в котором на одной из линий есть вызов в Hold
--- Bug #1172 (Redmine #20032) Notification. Full-duplex. Не совершить вызов с карточки, если есть другой активный Full-duplex вызов
+-- Bug #1171 (Redmine #20031) Notification. Full-duplex. Кнопка вызова на карточке missed call не меняет свой статус, если вызов совершается с контакт диалера в котором на одной из линий есть вызов в Hold (feedback)
+-- Suggestion #9452 Connection Manager. Полностью синхронизировать вкл.\откл. опций "Remember Password" и "Connect on Console Startup"
 2)
--- Bug #1158 (Redmine #19791) Text Chat. После обновления консоли не подгрузился ни один виджет чата из layout
-
+--
 -- Правка от Миши
+-- Сделать пример DI in One
 -- Сделать пример RX in One
 -- Добавить правила оформления UML диаграмм
--- Перенести вcе Workflow в O4ne из Enterprise 
+-- Перенести вcе Workflow в One из Enterprise 
 3)
 4)
 
