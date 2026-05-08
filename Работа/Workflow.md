@@ -1,8 +1,8 @@
 1)
--- Bug #1171 (Redmine #20031) Notification. Full-duplex. Кнопка вызова на карточке missed call не меняет свой статус, если вызов совершается с контакт диалера в котором на одной из линий есть вызов в Hold (feedback)
--- Suggestion #9452 Connection Manager. Полностью синхронизировать вкл.\откл. опций "Remember Password" и "Connect on Console Startup"
+-- Bug #1171 (Redmine #20055) Voice Dispatch. PTT button. После коннекта консоли в приватном боксе/в карточке нотификации PTT кнопка задизейблена до тех пор пока не поменяется его GPS статус (отправил обратно Маше, в enterprise тоже повторяется)
+-- Сделал несколько тестов серилазиции Device (в отдельной ветке)
 2)
--- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls
+-- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls (в процессе)
 
 -- Правка от Миши
 -- Сделать пример DI in One
