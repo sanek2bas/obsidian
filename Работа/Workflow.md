@@ -1,8 +1,7 @@
 1)
--- Bug #1178 (Redmine #20072) Notification. Full-duplex. Не отображаем карточки Missed Call
--- Bug #1179 (Redmine #20068) Notification. RTT. Не устанавливается вызов с карточки, если Callback Destination выбрано не Private Call (in progress)
-2)
+-- Bug #1179 (Redmine #20068) Notification. RTT. Не устанавливается вызов с карточки, если Callback Destination выбрано не Private Call
 -- Bug #1191 (Redmine #19768) System Bridge. Нет синхронизации активации бриджа со стороны One консоли
+2)
 -- Bug #1192 (Redmine #19762) Active Calls. Отображаем бокс Full-duplex сессии, если инициатор мобильный клиент
 -- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls (в процессе)
 
