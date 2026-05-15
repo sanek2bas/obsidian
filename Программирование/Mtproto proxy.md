@@ -131,3 +131,6 @@ chmod +x start-mtproxy.sh./start-mtproxy.sh
 ```
 sudo docker ps
 ```
+
+Расположение конфига
+mtproto_config.txt
