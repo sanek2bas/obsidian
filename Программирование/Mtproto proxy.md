@@ -1,6 +1,19 @@
 https://habr.com/ru/articles/1010942/
 
 
+```
+sudo apt update && sudo apt upgrade -y
+sudo apt install docker.io -y
+```
+
+```
+nano start-mtproxy.sh
+```
+
+Расположение скрипта
+/usr/local/bin
+
+```
 #!/bin/bash
 
 # Цвета для красивого вывода
@@ -104,3 +117,17 @@ else
     echo -e "${RED} ОШИБКА${NC}"
     sudo docker logs ${CONTAINER_NAME}
 fi
+```
+
+
+Делаем скрипт исполняемым и запускаем:
+
+```
+chmod +x start-mtproxy.sh./start-mtproxy.sh
+```
+
+Проверяем работает ли MTproxy
+
+```
+sudo docker ps
+```
