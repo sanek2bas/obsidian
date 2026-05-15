@@ -6,12 +6,13 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install docker.io -y
 ```
 
-```
-nano start-mtproxy.sh
-```
 
 Расположение скрипта
 /usr/local/bin
+
+```
+nano start-mtproxy.sh
+```
 
 ```
 #!/bin/bash
@@ -107,7 +108,7 @@ if sudo docker ps | grep -q ${CONTAINER_NAME}; then
 	DOMAIN=${FAKE_DOMAIN}
 	LINK=tg://proxy?server=${SERVER_IP}&port=${PORT}&secret=${SECRET}
 EOF
-    echo "Конфигурация сохранена в ~/mtproto_config.txt"
+    echo "Конфигурация сохранена в ~//usr/local/bin/mtproto_config.txt"
     
     # Показываем последние логи
     echo ""
@@ -123,7 +124,8 @@ fi
 Делаем скрипт исполняемым и запускаем:
 
 ```
-chmod +x start-mtproxy.sh./start-mtproxy.sh
+chmod +x start-mtproxy.sh
+./start-mtproxy.sh
 ```
 
 Проверяем работает ли MTproxy
@@ -134,3 +136,5 @@ sudo docker ps
 
 Расположение конфига
 mtproto_config.txt
+
+LINK=tg://proxy?server=2a03:6f01:1:2::1:8833&port=443&secret=ee79612e7275c5079005e92c2e95e3a1
