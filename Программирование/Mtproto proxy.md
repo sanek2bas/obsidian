@@ -137,4 +137,5 @@ sudo docker ps
 Расположение конфига
 mtproto_config.txt
 
-LINK=tg://proxy?server=2a03:6f01:1:2::1:8833&port=443&secret=ee79612e7275c5079005e92c2e95e3a1
+LINK=tg://proxy?server=2a03:6f01:1:2::1:8833&port=443&secret=
+ee79612e7275c5079005e92c2e95e3a1
