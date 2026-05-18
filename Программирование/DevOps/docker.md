@@ -1,5 +1,3 @@
-Досмотреть последнюю часть по докеру
-https://www.youtube.com/watch?v=ZbOmhm8Q2_I&list=PLA0M1Bcd0w8zznkO6nZoG8pWfKGK0RqBo&index=11
 
 
 
