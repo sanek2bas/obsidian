@@ -1,9 +1,7 @@
 1)
--- Bug #1179 (Redmine #20068) Notification. RTT. Не устанавливается вызов с карточки, если Callback Destination выбрано не Private Call
--- Bug #1191 (Redmine #19768) System Bridge. Нет синхронизации активации бриджа со стороны One консоли
--- Bug #1192 (Redmine #19762) Active Calls. Отображаем бокс Full-duplex сессии, если инициатор мобильный клиент
+-- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls (нашел в чем, проблема, но не нашел решение пока, paused)
 2)
--- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls (в процессе)
+
 -- Bug #1193 (Redmine #14922) Анмьют вызова в Active Calls
 
 -- Сделать пример DI in One
