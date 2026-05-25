@@ -5,17 +5,5 @@
 2)
 -- Bug #1193 (Redmine #14922) Анмьют вызова в Active Calls
 -- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls 
-
-
--- Сделать пример DI in One
--- Сделать красивый пример RX in One
--- Добавить правила оформления UML диаграмм
--- Перенести вcе Workflow в One из Enterprise 
 3)
-4)
-
-
-
-
-
-
+4) Хочу в отпуск с 22 июгя по 5 июля
