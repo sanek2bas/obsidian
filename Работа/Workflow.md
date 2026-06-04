@@ -3,6 +3,7 @@
 -- Bug 1210 (Redmine #19768) System Bridge. Нет синхронизации активации бриджа со стороны One консоли (feedback)
 -- Bug 1207 (Redmine #20155) Console patch. Отправляем тон по PTT после отправки тона по кнопке Send tone and call
 2)
+-- Bug 1208 (Redmine #20156) Active Calls. Не мьютим System Bridge/Console Patch при мьюте бокса в актив кол (в процессе)
 
 -- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls 
 пытаюсь обвязать тестами CallStateResolver чтобы в тестах отработать данную багу.
