@@ -8,5 +8,14 @@ Few developers write trustworthly unit test on their first try. Getting it right
 
 
 Книги
-Хакинг искусство экплойта
+Хакинг искусство эксплойта
 Наука о данных с нуля
+
+
+[[System design]]
+
+разобраться с моделями и позапускать их локально
+https://www.youtube.com/watch?v=Hf8oRRI3UJo
+Простой пример по рефакторингу кода с помощью ИИ
+
+Настольная книга менеджера
