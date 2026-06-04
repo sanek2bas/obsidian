@@ -1,6 +1,7 @@
 1)
 -- Bug 1209 (Redmine #20164) Widgets. Phone lines. Нельзя выбрать линию или ответить на входящий звонок в виджете Phone Lines
 -- Bug 1210 (Redmine #19768) System Bridge. Нет синхронизации активации бриджа со стороны One консоли (feedback)
+-- Bug 1207 (Redmine #20155) Console patch. Отправляем тон по PTT после отправки тона по кнопке Send tone and call
 2)
 
 -- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls 
