@@ -4,7 +4,7 @@ Matrix - 2
 Intervals - 1
 Stack - 1
 Linked List - 2
-Binary Tree General - 4
+Binary Tree General - 3
 Binary Tree BFS - 2
 Binary Tree Search - 2
 Graph General - 2
