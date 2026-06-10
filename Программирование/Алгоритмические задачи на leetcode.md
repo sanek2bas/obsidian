@@ -8,7 +8,7 @@ Binary Tree Search - 2
 Graph General - 2
 Graph BFS - 2
 Trie - 2
-Bacjtracking - 1
+Backtracking - 1
 Divide & Conquer - 1
 Kadane's Algorithm - 1
 Binary Search - 2
