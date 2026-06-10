@@ -1,8 +1,6 @@
 Array / String - 2
 Sliding Window - 2
 Matrix - 2
-Intervals - 1
-Stack - 1
 Linked List - 2
 Binary Tree General - 2
 Binary Tree BFS - 2
