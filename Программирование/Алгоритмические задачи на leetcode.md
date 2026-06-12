@@ -10,5 +10,4 @@ Graph BFS - 2
 Trie - 2
 Backtracking - 1
 Divide & Conquer - 1
-Kadane's Algorithm - 1
 Binary Search - 2
