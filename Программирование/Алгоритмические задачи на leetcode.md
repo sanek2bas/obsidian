@@ -1,5 +1,4 @@
 
-Sliding Window - 2
 Matrix - 2
 Linked List - 2
 
