@@ -1,6 +1,7 @@
 1)
+-- Bug #1213 (Redmine #20223) PTT Box. Перестаем отправлять тон по PTT в консольном патче и бридже после первого нажатия РТТ
 -- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls 
-	делаю небольшой рефакторинг
+	делаю тесты для CallStateResolver
 2)
 -- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls 
 
