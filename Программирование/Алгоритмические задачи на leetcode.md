@@ -6,4 +6,3 @@ Graph General - 2
 Graph BFS - 2
 
 Trie - 2
-Binary Search - 2
