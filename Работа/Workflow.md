@@ -10,5 +10,5 @@
 -- Bug 1204 (Redmine #20139) Active Calls. Отображаем бокс Full-duplex сессии на радио группу
 -- Bug #810 (Redmine #1160) Active Calls. Не отрабатывает отключение настройки 'Enable Sticky PTT' для боксов в Active Calls 
 3)
-4) Отпуск с 22 июня по 5 июля
+4)
  
