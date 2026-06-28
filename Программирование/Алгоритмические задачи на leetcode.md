@@ -1,4 +1,3 @@
-Binary Tree General - 1
 Binary Tree BFS - 2
 Binary Tree Search - 2
 
