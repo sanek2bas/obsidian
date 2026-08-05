@@ -1,6 +1,5 @@
 1)
 -- Issue # 1087 Избавиться от DependencyObject в CustomizableFunction
-	(подстрял, слишком много xaml кода, не расчитал время, еще доделвываю)
 2)
 --  Task #1224 Разделить PatchCallBox на System и Custom (Issue #1223)
 	(закончить)
