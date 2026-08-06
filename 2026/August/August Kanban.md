@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Продлить ключ ИП
 - [ ] Сделать страницу
+- [ ] Настроить OpenVPN
 
 
 ## In Progress
