@@ -7,9 +7,14 @@ kanban-plugin: board
 ## New
 
 - [ ] Продлить ключ ИП
+- [ ] Сделать страницу
 
 
 ## In Progress
+
+
+
+## Paused
 
 
 
@@ -21,6 +26,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
