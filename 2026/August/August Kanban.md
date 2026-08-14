@@ -10,14 +10,14 @@ kanban-plugin: board
 - [ ] Сделать страницу github
 - [ ] Настроить OpenVPN
 - [ ] Купить серебряную цепочку 75 см
-- [ ] Купить домен
-
-
-## In Progress
-
+- [ ] Собрать комп
 
 
 ## Paused
+
+
+
+## In Progress
 
 
 
