@@ -1,6 +1,6 @@
 1)
 -- Task #1247 Разделить ActiveCallBox
-	Выделены классы  ActiveRadioCallBox и ActiveGroupCallBox
+	 dsltktysx
 2)
 -- Issue #1223 Рефакторинг RadioCallBox 
 	в процессе 
