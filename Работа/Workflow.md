@@ -1,12 +1,11 @@
 1)
--- Task #1250 Разделить PhoneCallBox
-	 Выделены SingleLine- и SystemPhoneCallBox
-	Поправил работу создания сущности VoiceBoxSettings, на основании которой создаются боксы. Теперь проще выделять необходимые боксы Radio
+-- Issue #1223 Рефакторинг RadioCallBox
+-- Issue #1089 Избавиться от DependencyObject в CallBox
 2)
--- Task #1247 Разделить RadioCallBox на несколько боксов
-	в процессе 
--- Issue #121 (Redmine #16989, #16990) Сделать User Permissions в One
+-- Issue #121 Сделать User Permissions в One
+	в процессе осознания масштаба проблемы, собираю задачи из redmine
+
 3)
-	Если успею, то избавлюсь от DependencyObject в CallBox
+	По рефакторингу CallBox - что успел, то успел, много мелочей осталось, которые хочется поменять аккуратно, но пока работаем так. 
 4)
  
