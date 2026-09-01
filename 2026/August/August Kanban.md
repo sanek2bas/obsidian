@@ -10,7 +10,6 @@ kanban-plugin: board
 - [ ] Сделать страницу github
 - [ ] Настроить OpenVPN
 - [ ] Купить серебряную цепочку 75 см
-- [ ] Собрать комп
 
 
 ## Paused
@@ -19,6 +18,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Собрать комп
 
 
 ## Done
