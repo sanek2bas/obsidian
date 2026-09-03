@@ -18,11 +18,11 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Собрать комп
 
 
 ## Done
 
+- [ ] Собрать комп
 
 
 
