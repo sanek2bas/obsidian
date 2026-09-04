@@ -5,7 +5,6 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install docker.io -y
 ```
 
-
 Расположение скрипта
 /usr/local/bin
 
@@ -118,7 +117,6 @@ else
     sudo docker logs ${CONTAINER_NAME}
 fi
 ```
-
 
 Делаем скрипт исполняемым и запускаем:
 
