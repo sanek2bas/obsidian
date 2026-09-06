@@ -1,7 +1,5 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: table
 ---
 
 ## New
@@ -19,6 +17,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] [[6. Непрерывность]]
 
 
 ## Done
@@ -29,6 +28,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"table","list-collapse":[false,false,false,false]}
 ```
 %%
