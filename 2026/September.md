@@ -25,10 +25,18 @@ kanban-plugin: table
 - [ ] Установить Винду на новый комп
 
 
+## 
+
+
+
+## [[Тестовое задание]]]
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"table","list-collapse":[false,false,false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
