@@ -1,7 +1,5 @@
 ---
-
 kanban-plugin: table
-
 ---
 
 ## New
@@ -10,6 +8,7 @@ kanban-plugin: table
 - [ ] Сделать страницу github
 - [ ] Настроить OpenVPN
 - [ ] [[Тестовое задание (User_Ip_Serivce)]]
+- [ ] [[7. Производные]]
 
 
 ## Paused
@@ -34,6 +33,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
