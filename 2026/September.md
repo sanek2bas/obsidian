@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: table
+
 ---
 
 ## New
@@ -16,12 +18,12 @@ kanban-plugin: table
 
 ## In Progress
 
-- [ ] [[6. Непрерывность]]
 
 
 ## Done
 
 - [ ] Установить Винду на новый комп
+- [ ] [[6. Непрерывность]]
 
 
 ## 
@@ -32,6 +34,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"table","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
