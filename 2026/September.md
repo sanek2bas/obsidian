@@ -1,10 +1,12 @@
 ---
+
 kanban-plugin: table
+
 ---
 
 ## New
 
-- [ ] Продлить ключ ИП @{2026-09-08}
+- [ ] Продлить ключ ИП @{08-09}
 - [ ] Сделать страницу github
 - [ ] Настроить OpenVPN
 - [ ] [[Тестовое задание (User_Ip_Serivce)]]
@@ -33,6 +35,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"table","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
