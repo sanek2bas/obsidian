@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: table
+kanban-plugin: list
 
 ---
 
@@ -24,7 +24,6 @@ kanban-plugin: table
 
 ## Done
 
-- [ ] 
 - [ ] [[6. Непрерывность]]
 
 
@@ -36,6 +35,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
