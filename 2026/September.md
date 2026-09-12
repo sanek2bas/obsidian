@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: table
+
 ---
 
 ## New
@@ -9,7 +11,6 @@ kanban-plugin: table
 	Пример https://github.com/Fighter90/fighter90.github.io
 - [ ] Настроить OpenVPN
 - [ ] [[Тестовое задание (User_Ip_Serivce)]]
-- [ ] [[7. Производные]]
 
 
 ## Paused
@@ -18,6 +19,7 @@ kanban-plugin: table
 
 ## In Progress
 
+- [ ] [[7. Производные]]
 
 
 ## Done
@@ -33,6 +35,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"table","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
