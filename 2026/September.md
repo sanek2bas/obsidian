@@ -6,11 +6,12 @@ kanban-plugin: table
 
 ## New
 
-- [ ] Продлить ключ ИП @{10-09}
+- [ ] Продлить ключ ИП @{18-09}
 - [ ] Сделать страницу github
 	Пример https://github.com/Fighter90/fighter90.github.io
 - [ ] Настроить OpenVPN
 - [ ] [[Тестовое задание (User_Ip_Serivce)]]
+- [ ] [[7. Производные]]
 
 
 ## Paused
@@ -19,11 +20,11 @@ kanban-plugin: table
 
 ## In Progress
 
-- [ ] [[7. Производные]]
 
 
 ## Done
 
+- [ ] Установить Винду на новый комп
 - [ ] [[6. Непрерывность]]
 
 
