@@ -1,4 +1,22 @@
-сделать пример по concorency dictionary
+В процессе
+
+По работе
+
+- Закончить делать пример по (Concurrency C# cookbook)
+- F# for fun
+- пройти deadlockimpire (https://deadlockempire.github.io/)
+- Concurrency Net Patterns
+
+Дополнительно
+
+- Код. Тайный язык информатики.
+-  Введение в высшую математику
+- Погрузиться в термин ИИ
+
+---
+
+
+сделать пример по Concurrency dictionary
 
 ИИ модель для игоря
 
@@ -20,14 +38,9 @@ https://www.youtube.com/watch?v=Hf8oRRI3UJo
 
 Настольная книга менеджера
 
-
 Закончить все задачи на Leetcode
 - конкаренси
 - sql
-
-
-пройти deadlockimpire
-https://deadlockempire.github.io/
 
 сделать маленькие пример по примитивам синхронизации
 
