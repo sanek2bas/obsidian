@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: table
+kanban-plugin: board
 
 ---
 
@@ -36,14 +36,10 @@ kanban-plugin: table
 - [ ] Оплатить страховые взносы по ИП @{2026-09-30}
 
 
-## 
-
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
