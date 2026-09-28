@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: table
+
 ---
 
 ## New
@@ -31,6 +33,7 @@ kanban-plugin: table
 
 - [ ] Установить Винду на новый комп
 - [ ] [[6. Непрерывность]]
+- [ ] Оплатить страховые взносы по ИП @{2026-09-30}
 
 
 ## 
@@ -41,6 +44,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"table","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
