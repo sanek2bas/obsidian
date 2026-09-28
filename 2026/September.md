@@ -1,12 +1,18 @@
 ---
 
-kanban-plugin: table
+kanban-plugin: board
 
 ---
 
 ## New
 
-- [ ] Продлить ключ ИП @{18-09}
+- [ ] Пройтись про пройденным материалам (Введение в матан)
+- [ ] Оформить Pro-Concurrency.Synchorinization
+	https://github.com/sanek2bas/pro-concurrency/tree/main/Synchronization
+- [ ] Оформить Pro-Concurrency.Scheduling
+	https://github.com/sanek2bas/pro-concurrency/tree/main/Scheduling
+- [ ] Оформить Pro-Concurrency.Scenarios
+	[https://github.com/sanek2bas/pro-concurrency/tree/main/Synchronization](https://github.com/sanek2bas/pro-concurrency/tree/main/Scenarios)
 - [ ] Сделать страницу github
 	Пример https://github.com/Fighter90/fighter90.github.io
 - [ ] Настроить OpenVPN
@@ -20,6 +26,7 @@ kanban-plugin: table
 
 ## In Progress
 
+- [ ] Изучить статью https://habr.com/ru/articles/727850/
 
 
 ## Done
@@ -36,6 +43,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
