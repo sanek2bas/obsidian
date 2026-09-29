@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## New
 
+- [ ] Прописать Рому @{30-09} @@{16:00}
 - [ ] Пройтись про пройденным материалам (Введение в матан)
 - [ ] Оформить Pro-Concurrency.Synchorinization
 	https://github.com/sanek2bas/pro-concurrency/tree/main/Synchronization
