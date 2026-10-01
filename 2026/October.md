@@ -24,7 +24,8 @@ kanban-plugin: board
 	[https://github.com/sanek2bas/pro-auto-testing](https://github.com/sanek2bas/pro-design-patterns)
 - [ ] Протий игру по deadlock
 	https://deadlockempire.github.io/
-- [ ] English Galaxy
+- [ ] [[Englixh Galaxy. Elementary#^71]]
+- [ ] [[Englixh Galaxy. Elementary#^335c76]]
 
 
 ## Paused
