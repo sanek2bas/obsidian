@@ -28,11 +28,13 @@ kanban-plugin: board
 
 ## Paused
 
+- [ ] [[Изучить статью https habr.com ru articles 727850]]
 
 
 ## In Progress
 
-- [ ] [[Изучить статью https habr.com ru articles 727850]]
+- [ ] Разобраться с DisposeAsyncBenchmark
+	https://github.com/sanek2bas/pro-concurrency/blob/main/Benchmarks/Creating.ValueTask.Benchmarks/DisposeAsyncBenchmark.cs
 
 
 ## Done
