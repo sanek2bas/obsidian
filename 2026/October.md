@@ -25,6 +25,8 @@ kanban-plugin: board
 - [ ] Протий игру по deadlock
 	https://deadlockempire.github.io/
 - [ ] Englixh_Galaxy.Elementary
+- [ ] Настроить локально Copilot
+- [ ] Перейти на новый комп
 
 
 ## Paused
