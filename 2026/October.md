@@ -26,6 +26,10 @@ kanban-plugin: board
 	https://deadlockempire.github.io/
 - [ ] Englixh_Galaxy.Elementary
 - [ ] Настроить локально Copilot
+	
+	https://www.youtube.com/watch?v=81MwITnG_Tg
+	
+	https://www.youtube.com/watch?v=uAFCbh1S6XA
 - [ ] Перейти на новый комп
 
 
