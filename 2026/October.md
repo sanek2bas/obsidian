@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: table
+
 ---
 
 ## New
@@ -29,6 +31,8 @@ kanban-plugin: table
 	
 	https://www.youtube.com/watch?v=uAFCbh1S6XA
 - [ ] Перейти на новый комп
+- [ ] [[Прихожая#^1]]
+- [ ] [[Комната#^1]]
 
 
 ## Paused
@@ -50,6 +54,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"table","list-collapse":[false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
