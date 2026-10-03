@@ -42,12 +42,12 @@ kanban-plugin: table
 
 ## In Progress
 
-- [ ] Разобраться с DisposeAsyncBenchmark
-	https://github.com/sanek2bas/pro-concurrency/blob/main/Benchmarks/Creating.ValueTask.Benchmarks/DisposeAsyncBenchmark.cs
 
 
 ## Done
 
+- [ ] Разобраться с DisposeAsyncBenchmark
+	https://github.com/sanek2bas/pro-concurrency/blob/main/Benchmarks/Creating.ValueTask.Benchmarks/DisposeAsyncBenchmark.cs
 
 
 
