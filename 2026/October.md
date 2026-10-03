@@ -37,11 +37,11 @@ kanban-plugin: table
 
 ## Paused
 
-- [ ] [[Изучить статью https habr.com ru articles 727850]]
 
 
 ## In Progress
 
+- [ ] [[Изучить статью https habr.com ru articles 727850]]
 
 
 ## Done
