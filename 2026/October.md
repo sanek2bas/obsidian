@@ -31,7 +31,6 @@ kanban-plugin: table
 	
 	https://www.youtube.com/watch?v=uAFCbh1S6XA
 - [ ] Перейти на новый комп
-- [ ] [[Прихожая#^1]]
 
 
 ## Paused
@@ -46,6 +45,7 @@ kanban-plugin: table
 ## Done
 
 - [ ] [[Комната#^1]]
+- [ ] [[Прихожая#^1]]
 - [ ] Разобраться с DisposeAsyncBenchmark
 	https://github.com/sanek2bas/pro-concurrency/blob/main/Benchmarks/Creating.ValueTask.Benchmarks/DisposeAsyncBenchmark.cs
 
