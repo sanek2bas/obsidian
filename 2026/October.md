@@ -1,10 +1,13 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## New
 
 - [ ] Пройтись про пройденным материалам (Введение в матан)
+- [ ] Отрисовать логические вентели
 - [ ] Оформить Pro-Concurrency.Synchorinization
 	https://github.com/sanek2bas/pro-concurrency/tree/main/Synchronization
 - [ ] Оформить Pro-Concurrency.Scheduling
@@ -52,6 +55,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","list-collapse":[false,false,false,false],"table-sizing":{"lane":141}}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"table-sizing":{"lane":141}}
 ```
 %%
