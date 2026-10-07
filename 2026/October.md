@@ -40,7 +40,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] [[Изучить статью https habr.com ru articles 727850]]
+- [ ] [[Изучить статью]]
 
 
 ## Done
