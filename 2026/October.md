@@ -32,6 +32,7 @@ kanban-plugin: board
 	
 	https://www.youtube.com/watch?v=uAFCbh1S6XA
 - [ ] Перейти на новый комп
+- [ ] https://learngitbranching.js.org/
 
 
 ## Paused
