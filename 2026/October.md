@@ -6,8 +6,9 @@ kanban-plugin: board
 
 ## New
 
-- [ ] Пройтись про пройденным материалам (Введение в матан)
 - [ ] Отрисовать логические вентели
+- [ ] Пройтись про пройденным материалам (Введение в матан)
+- [ ] [[Код. Тайный язык информатики (Чарльз Петцольд)#^14]]
 - [ ] Оформить Pro-Concurrency.Synchorinization
 	https://github.com/sanek2bas/pro-concurrency/tree/main/Synchronization
 - [ ] Оформить Pro-Concurrency.Scheduling
