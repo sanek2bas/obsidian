@@ -6,9 +6,8 @@ kanban-plugin: board
 
 ## New
 
-- [ ] Отрисовать логические вентели
 - [ ] Пройтись про пройденным материалам (Введение в матан)
-- [ ] [[Код. Тайный язык информатики (Чарльз Петцольд)#^14]]
+- [ ] Отрисовать логические вентели
 - [ ] Оформить Pro-Concurrency.Synchorinization
 	https://github.com/sanek2bas/pro-concurrency/tree/main/Synchronization
 - [ ] Оформить Pro-Concurrency.Scheduling
@@ -26,7 +25,6 @@ kanban-plugin: board
 	[https://github.com/sanek2bas/pro-auto-testing](https://github.com/sanek2bas/pro-design-patterns)
 - [ ] Протий игру по deadlock
 	https://deadlockempire.github.io/
-- [ ] Englixh_Galaxy.Elementary
 - [ ] Настроить локально Copilot
 	
 	https://www.youtube.com/watch?v=81MwITnG_Tg
@@ -38,6 +36,7 @@ kanban-plugin: board
 
 ## Paused
 
+- [ ] Englixh_Galaxy.Elementary
 
 
 ## In Progress
